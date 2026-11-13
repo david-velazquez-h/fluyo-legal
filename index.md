@@ -1,8 +1,8 @@
 # Aviso de privacidad de Fluyo
 
 **Responsable:** Valdav Software
-**Contacto:** [CORREO]
-**Última actualización:** [FECHA]
+**Contacto:** valdavsoftware@proton.me
+**Última actualización:** 12 de noviembre de 2026
 
 Fluyo es una aplicación de alertas comunitarias sobre el estado de las estaciones del Mexibús. Este aviso explica qué información recopilamos, para qué la usamos y cuáles son tus derechos.
 
@@ -59,4 +59,4 @@ Podemos actualizar este aviso. Publicaremos la nueva versión en esta misma pág
 
 ## 10. Contacto
 
-Valdav Software · [CORREO]
+Valdav Software · valdavsoftware@proton.me
